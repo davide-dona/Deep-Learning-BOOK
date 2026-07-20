@@ -24,7 +24,7 @@ This book covers a wide range of topics in Deep Learning, from foundational conc
 ## TikZ Illustrations
 
 One of the unique features of this book is our extensive use of TikZ for creating high-quality illustrations. TikZ, a powerful package for creating graphics in LaTeX, has allowed us to craft clear, elegant diagrams that enhance understanding of complex concepts.
-In the [TikZ folder](https://github.com/federicobrancasi/Deep-Learning/tree/main/tikz), you'll find the source code for all our illustrations. We encourage you to explore, use, and even improve upon these diagrams. Whether you're learning TikZ or looking for inspiration for your own Deep Learning visualizations, this collection serves as a valuable resource.
+In the [chapter folders](https://github.com/federicobrancasi/Deep-Learning/tree/main/chapters), you'll find the TikZ source code for all our illustrations. We encourage you to explore, use, and even improve upon these diagrams. Whether you're learning TikZ or looking for inspiration for your own Deep Learning visualizations, this collection serves as a valuable resource.
 
 ## How to Contribute
 
